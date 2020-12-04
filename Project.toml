@@ -1,0 +1,13 @@
+name = "Stochastic"
+uuid = "89f4a904-9daf-481d-971b-350c7fffea43"
+authors = ["Jay Sonawane"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
